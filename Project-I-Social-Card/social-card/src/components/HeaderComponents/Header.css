@@ -1,1 +1,30 @@
 /* All styles for your header Components live here */
+.headerContent {
+  display: flex;
+  margin-left: 15px;
+}
+
+.userInfoContainer {
+  display: flex;
+}
+
+.thumbImg {
+  margin-right: 10px;
+  margin-top: 13px;
+  width: 70px;
+}
+
+.userName {
+  font-size: 20px;
+}
+
+.timeStamp {
+  font-size: 18px;
+  color: rgb(173, 172, 172);
+  margin-left: 10px;
+  margin-top: 25px;
+}
+
+.cardHeader {
+  width: 550px;
+}
