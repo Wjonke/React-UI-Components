@@ -1,1 +1,38 @@
 /* All styles for your Card Components live here */
+h3 {
+  color: rgb(173, 172, 172);
+  line-height: 0;
+}
+a{
+  text-decoration: none;
+}
+
+h2 {
+  color: black;
+  line-height: 0;
+}
+p {
+  color: black;
+}
+
+.card {
+  border: 1px solid rgb(173, 172, 172);
+  width: 550px;
+  
+  border-radius: 5px ;
+  line-height: 1;
+}
+
+.molecule {
+  width: 550px;
+  border-radius: 5px 5px 0 0;
+}
+
+ a {
+  display: inline-block;
+  width: 550px;
+  margin-left: 100px;
+
+}
+
+

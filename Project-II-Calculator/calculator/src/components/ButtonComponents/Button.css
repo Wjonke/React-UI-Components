@@ -1,0 +1,55 @@
+.calculator-container {
+  margin: 30px auto;
+  width: 510px;
+  border: 1px solid black;
+}
+
+/* .displayContainer {
+  
+} */
+
+.buttons {
+  display: flex;
+}
+
+
+.clearBtn {
+  width: 384px;
+  height: 98px;
+  font-size: 50px;
+  background-color: #fff;
+  color: rgb(135, 135, 135);
+  margin-right: 10px;
+  
+}
+
+.numbers {
+  width: 385px;
+  height: 500px;
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+
+.zero {
+  width: 384px;
+  height: 98px;
+  font-size: 30px;
+  font-weight: bold;
+  background-color: #fff;
+}
+.number {
+  background-color: #fff;
+  width: 128px;
+  height: 100px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.math {
+  background-color: maroon;
+  width: 125px;
+  height: 99.75px;
+  font-size: 90px;
+  color: #fff
+}

@@ -20,6 +20,14 @@
 - Each file has been set up to work within a `react.js` environment. Pay attention to the notes found within each project.
 - Don't forget about `className` vs `class` on your `JSX elements`!!
 
+
+
+
+
+
+
+
+
 ## _Project I - Social Card_
 
 - We're going to break down this assignment in terms of how you should be starting to think in react. Remember that everything is a component.
@@ -34,6 +42,8 @@
   - And then of course the footer (**Stretch Problem 1**) which contains your icons, could be a container for all of your icon components.
 
 ![Social Components](sc-component-outline.png)
+
+
 
 #### Project 1 MVP requirements
 
@@ -54,6 +64,16 @@
   - Build out the functionality so that a user can click on the icons and have them react to events.
 - Ensure that your product is as pixel perfect as possible using any tools that you were introduced to in previous weeks.
 - Look up the `moment.js` library and figure out how to format your `time-stamp` in your header to be todays date.
+
+
+
+
+
+
+
+
+
+
 
 ## _Project II - React Calculator_
 
